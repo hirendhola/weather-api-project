@@ -22,7 +22,7 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-api-project.git
+   git clone https://github.com/hirendhola/weather-api-project.git
    ```
 
 2. Navigate to the project directory:
@@ -63,9 +63,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, please feel free to reach out to me:
 
-- Your Name
-- Your Email
-- Project Link: [https://github.com/hirendhola/weather-api-project](https://github.com/your-username/weather-api-project)
+- Hiren Dhola
+- hirendholap@gmail.com
+- Project Link: [https://github.com/hirendhola/weather-api-project](https://github.com/hirendhola/weather-api-project)
 
 ---
 
